@@ -1,53 +1,30 @@
-# Java Student Grade Management System
+# Student Result System
 
-## About
-This is a beginner Java mini project created to practice core Java concepts.
-
-The program:
-- Takes student name
-- Accepts marks of 3 subjects
-- Calculates total marks
-- Calculates average
-- Calculates percentage
-- Displays grade
-- Displays pass/fail result
+A Java console-based student result management project.
 
 ---
 
-## Concepts Used
-- Variables
-- User Input (Scanner)
-- Arithmetic Operators
-- if-else ladder
-- Conditional Statements
-- Basic Logic Building
+# Version 1 Features
+- Student name input
+- Subject marks input
+- Total calculation
+- Average calculation
 
 ---
 
-## Technologies Used
-- Java
-- VS Code
+# Version 2 Features
+- Menu-driven system
+- Percentage calculation
+- Grade assignment
+- Repeating menu using do-while loop
+- Exit option
+- Improved user interaction
 
 ---
 
-## Sample Output
-
-===== STUDENT REPORT =====
-
-Student Name: Varun
-
-PYTHON : 90
-JAVA : 85
-RUBY : 95
-
-Total Marks : 270
-Average : 90
-Percentage : 90.0%
-
-Grade : A
-Result : Pass
-
----
-
-## Author
-Varun
+# Concepts Used
+- Scanner class
+- if-else conditions
+- do-while loop
+- arithmetic operators
+- user input handling
