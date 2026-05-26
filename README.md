@@ -1,30 +1,46 @@
-# Student Result System
+# Java Mini Projects
 
-A Java console-based student result management project.
+This repository contains my beginner Java projects created while learning Java programming.
 
 ---
 
-# Version 1 Features
+# Projects Included
+
+## 1. Student Result System
+
+A console-based Java project to manage student result details.
+
+### Features
 - Student name input
+- Roll number input
 - Subject marks input
 - Total calculation
-- Average calculation
-
----
-
-# Version 2 Features
-- Menu-driven system
 - Percentage calculation
-- Grade assignment
-- Repeating menu using do-while loop
-- Exit option
-- Improved user interaction
+- Grade display
+- Menu-driven system
+
+### Concepts Used
+- Scanner class
+- Variables
+- If-else conditions
+- Loops
+- Basic Java syntax
 
 ---
 
-# Concepts Used
-- Scanner class
-- if-else conditions
-- do-while loop
-- arithmetic operators
-- user input handling
+## 2. ATM Machine Mini Project
+
+A beginner-friendly ATM simulation project using Java.
+
+### Features
+- Check balance
+- Deposit money
+- Withdraw money
+- PIN verification
+- Menu-driven ATM system
+
+### Default Details
+
+#### PIN
+```text
+4323
